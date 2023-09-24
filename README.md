@@ -60,3 +60,14 @@ These insights not only enable timely interventions and personalized treatment b
 
 •	Executed random oversampling to address target attribute imbalance, increasing the number of records in the minority class for improved predictive accuracy.
 
+
+The Random Forest model was best-performing one based on its accuracy. This is a common approach to model selection in machine learning.
+
+Here's a breakdown of the accuracies and the chosen model:
+
+Decision Tree: 97.68%
+K-Nearest Neighbors (KNN): 97.73%
+Random Forest: 99.33%
+
+The Random Forest model achieved the highest accuracy at 99.48%, making it the chosen model. High accuracy is a good indicator of model performance, but it's important to consider other factors like the dataset's characteristics, model complexity, and the specific problem you're trying to solve.
+
